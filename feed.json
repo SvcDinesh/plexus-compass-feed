@@ -1,0 +1,317 @@
+{
+ "version": 1,
+ "updated_at": "2026-11-07T12:18:26+05:30",
+ "sources": {
+  "mcc": {
+   "ok": true,
+   "checked_at": "2026-11-07T12:18:26+05:30",
+   "count": 16
+  },
+  "aiims": {
+   "ok": true,
+   "checked_at": "2026-11-07T12:18:26+05:30",
+   "count": 1
+  }
+ },
+ "items": [
+  {
+   "id": "55ccf00f1504de7a",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "result",
+   "title": "List of the qualified candidates in the INICET January 2027 session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1794028718401-947447639.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T064348Z&X-Amz-Expires=604800&X-Amz-Signature=01981786e2a0eff1fe0851f2ca0021345baacc28757db6a64938c79db588b30d&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-11-07",
+   "first_seen": "2026-11-07T12:18:26+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-14T06:43:48+00:00"
+  },
+  {
+   "id": "a314ea98e98c080c",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "title": "New Registration for NEET PG Counselling 2026",
+   "url": "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNq85fKhJWyvHvAMhgNvbzOg==",
+   "published": "2026-11-03",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "73a18c26117abb19",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "title": "PG All India Quota schedule 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261029180954707.pdf",
+   "published": "2026-10-29",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "c975f28a3f78af37",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "result",
+   "round": "Round 1",
+   "title": "Final Allotment Result for PG Counselling Round 1 dated 24.10.2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610241746468472.pdf",
+   "published": "2026-10-24",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "a206ec12084e4e7f",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 1",
+   "title": "NRI LIST OF ELIGIBLE CANDIDATES FOR PG ROUND -1 (2026-27) dated 21.10.2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261021538234864.pdf",
+   "published": "2026-10-21",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "32f9e13eeadf66b6",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "seat_matrix",
+   "title": "FINAL CENTRAL INTERNAL QUOTA SEATS MATRIX PG COUNSELLING 2026 (MD MS)",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151906520168.pdf",
+   "published": "2026-10-15",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "91ab9bc1691b4480",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "seat_matrix",
+   "title": "FINAL SEATS MATRIX DNB PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151482599908.pdf",
+   "published": "2026-10-15",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "8ea8a027e1c8a01a",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "seat_matrix",
+   "title": "FINAL DEEMED SEATS MATRIX PG COUNSELLING 2026 (MD MS)",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261015907178910.pdf",
+   "published": "2026-10-15",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "966422ca4422002f",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "seat_matrix",
+   "title": "FINAL ALL INDIA QUOTA SEATS MATRIX PG 2026 COUNSELLING (MD MS)",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151676193504.pdf",
+   "published": "2026-10-15",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "591e2eedb208dc46",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "seat_matrix",
+   "round": "Round 1",
+   "title": "Verification of PG Counselling 2026 Seat Matrix and Reporting of Discrepancies Before Completion of Round 1 Choice Filling",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151265361532.pdf",
+   "published": "2026-10-15",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "8319c5ffed271ee6",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "NMC PWD guidelines clarification.",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151285229813.pdf",
+   "published": "2026-10-15",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "83a610c0c16da57f",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "Corrigendum regarding NRI documents to be submitted dated 14.10.2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151921258874.pdf",
+   "published": "2026-10-14",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "1a334fbf2ba5ca8f",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "Candidate User Guide – NEET PG Counselling 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610121388624358.pdf",
+   "published": "2026-10-12",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "d88bf20b87b8ef3b",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "title": "AIQ AND STATE COUNSELLING SCEHDULE PG 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610081115756031.pdf",
+   "published": "2026-10-08",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "4eb806e79d6e3c06",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "PG Information Bulletin 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610082121348550.pdf",
+   "published": "2026-10-08",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "74beab13973c4f86",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "List Of Medical Assessment Board",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
+   "published": "2026-10-05",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "b8aafd900eed53f6",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 1",
+   "title": "Notice for PwD assessment for PG Round 1 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609291035233397.pdf",
+   "published": "2026-09-29",
+   "first_seen": "2026-11-03T01:03:48+05:30"
+  },
+  {
+   "id": "87be3fb026110492",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "schedule",
+   "title": "Online Registration for INI-CET for admission to PG Courses for Janurary 2027 session has been started",
+   "url": "https://www.aiimsexams.ac.in/advertisement/6aaab710c7a01ed08da4242d",
+   "published": "2026-09-17",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice"
+  },
+  {
+   "id": "1722dca21d0568e8",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "notice",
+   "round": "Open round",
+   "title": "Notice Candidature Cancel for the Open Round of INI-CET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1786603593338-530755775.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=d61712af72146d5fe204f2f78998432e7f5676b4a696924725e21a1c8701fa7f&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-08-13",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "87fe2b21c6a93571",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "result",
+   "round": "Open round",
+   "title": "Notice regarding Security Deposit for the Open Round of Online Seat Allocation of INI-CET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1786357813910-220111602.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=1e9c10803eba01822821d8289960f1e84ed017aec82a93c0975c2dddf0ee5b43&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-08-10",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "d78ceb000feb989c",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "notice",
+   "round": "Open round",
+   "title": "Information brochure for open round of online seat allocation INICET July 2026 session.",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1785149587532-851666082.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=9205b8c0811cefb026efb37a69f93b38d1d4ed356302c31460c84d3750413b07&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-07-27",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "8b8bf2147cc50a7e",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "schedule",
+   "round": "Open round",
+   "title": "Schedule of open round of online seat allocation for INI-CET July 2026 session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1785149525767-744087440.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=8646fb53244e1436fcdadbcb9eb9b04bd7ac97f7ca22501b5546c7099bbea18f&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-07-27",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "a4d04a609b024c87",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "schedule",
+   "title": "Schedule online seat allocation INICET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155152053-953334453.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=8d40afc3b1e7b753b8e9210b6afda11f493f1a082ac178490d36523ec9f482ba&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-06-11",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "4929f162f457e446",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "notice",
+   "title": "FAQ online seat allocation INICET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155135022-999480374.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=612ece26fd114abb8d9f47ea3905f31d4f48f96fc5c2c3fe3d61ae9eb1786372&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-06-11",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "62f0df42064e3053",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "notice",
+   "title": "Information Brochure online seat allocation INICET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155071406-258631692.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=90084852c45c6952e569380c998a884c1776dfaf4e3232056843ab95698d4646&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-06-11",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "720f1040b4b5416f",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "notice",
+   "title": "How to fill online seat allocation INICET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155044339-701983117.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=a31e00e0cffef637ef1d58bcb0f920ac34e22c90fde22aa043358c6eec4498c9&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-06-11",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  },
+  {
+   "id": "4975f2c0356c5f13",
+   "exam": "inicet",
+   "source": "aiims",
+   "category": "notice",
+   "title": "Guidelines IP Roster online seat allocation INICET July 2026 Session",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781154871119-23773301.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261102%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T193234Z&X-Amz-Expires=604800&X-Amz-Signature=37ed822fc5c72a2ab914c758f0216641cee3924b82ab1e89b88ea9ca5cf7f1aa&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "published": "2026-06-11",
+   "first_seen": "2026-11-03T01:03:48+05:30",
+   "page": "https://www.aiimsexams.ac.in/landingpage/notice",
+   "url_expires": "2026-11-09T19:32:34+00:00"
+  }
+ ]
+}
