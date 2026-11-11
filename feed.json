@@ -1,19 +1,63 @@
 {
  "version": 1,
- "updated_at": "2026-11-11T11:42:12+05:30",
+ "updated_at": "2026-11-12T03:26:31+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-11T11:42:12+05:30",
-   "count": 21
+   "checked_at": "2026-11-12T03:26:31+05:30",
+   "count": 20
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-11T11:42:12+05:30",
-   "count": 1
+   "checked_at": "2026-11-12T03:26:31+05:30",
+   "count": 11
   }
  },
  "items": [
+  {
+   "id": "30e1d556ecdba025",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "CLEAR VACANCY ROUND 2 (MD/MS/DNB) – PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261111393380887.pdf",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-12T03:26:31+05:30"
+  },
+  {
+   "id": "44b4a2b50946adc9",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "NEWLY ADDED SEATS ROUND 2 (MD/MS/DNB) – PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611111088701627.pdf",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-12T03:26:31+05:30"
+  },
+  {
+   "id": "25de0923bd60c5a5",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "VIRTUAL VACANCY ROUND 2 (MD/MS/DNB) – PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611111350590462.pdf",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-12T03:26:31+05:30"
+  },
+  {
+   "id": "d509c53656b7dbad",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "NOTICE FOR ADDITION AND REMOVAL OF SEATS FROM ROUND 2 PG 2026 11.11.2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611111206941992.pdf",
+   "published": "2026-11-11",
+   "first_seen": "2026-11-12T03:26:31+05:30"
+  },
   {
    "id": "b131aab4f0f18010",
    "exam": "neetpg",
