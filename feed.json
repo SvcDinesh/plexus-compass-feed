@@ -1,19 +1,51 @@
 {
  "version": 1,
- "updated_at": "2026-11-12T03:26:31+05:30",
+ "updated_at": "2026-11-12T16:32:44+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-12T03:26:31+05:30",
-   "count": 20
+   "checked_at": "2026-11-12T16:32:44+05:30",
+   "count": 22
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-12T03:26:31+05:30",
+   "checked_at": "2026-11-12T16:32:44+05:30",
    "count": 11
   }
  },
  "items": [
+  {
+   "id": "3fa90b03ea33b0cf",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "The PwD portal for the Primary Assessment Board (Disability Centres) will remain available till 06:00 PM of 12 November 2026. The portal for the Appellate Board will be available till 06 :00 PM of 14",
+   "url": "https://mcc.nic.in/the-pwd-portal-for-the-primary-assessment-board-disability-centres-will-remain-available-till-0600-pm-of-12-november-2026-the-portal-for-the-appellate-board-will-be-available-till-06-00-pm-of-14/",
+   "published": "2026-11-12",
+   "first_seen": "2026-11-12T16:32:44+05:30"
+  },
+  {
+   "id": "9e4e60f63bc94076",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "round": "Round 2",
+   "title": "CHOICE FILLING FOR ROUND 2 PG COUNSLLING 2026 IS AVAILABLE NOW.",
+   "url": "https://mcc.nic.in/choice-filling-for-round-2-pg-counslling-2026-is-available-now/",
+   "published": "2026-11-12",
+   "first_seen": "2026-11-12T16:32:44+05:30"
+  },
+  {
+   "id": "d321c2c873b5d49c",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "NEWLY ADDED SEATS ROUND 2 (MD/MS/DNB) – PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/2026111214351176.pdf",
+   "published": "2026-11-12",
+   "first_seen": "2026-11-12T16:32:44+05:30"
+  },
   {
    "id": "30e1d556ecdba025",
    "exam": "neetpg",
@@ -119,11 +151,11 @@
    "source": "aiims",
    "category": "result",
    "title": "List of the qualified candidates in the INICET January 2027 session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1794028718401-947447639.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T064348Z&X-Amz-Expires=604800&X-Amz-Signature=01981786e2a0eff1fe0851f2ca0021345baacc28757db6a64938c79db588b30d&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1794028718401-947447639.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T110025Z&X-Amz-Expires=604800&X-Amz-Signature=18fd86064448eb432c30d192a7874ea9c6eb6927794c98e852464f514578e430&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-11-07",
    "first_seen": "2026-11-07T12:18:26+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T06:43:48+00:00"
+   "url_expires": "2026-11-19T11:00:25+00:00"
   },
   {
    "id": "a314ea98e98c080c",
