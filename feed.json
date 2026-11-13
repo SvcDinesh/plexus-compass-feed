@@ -1,19 +1,41 @@
 {
  "version": 1,
- "updated_at": "2026-11-13T05:50:19+05:30",
+ "updated_at": "2026-11-13T13:25:22+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-13T05:50:19+05:30",
-   "count": 22
+   "checked_at": "2026-11-13T13:25:22+05:30",
+   "count": 23
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-13T05:50:19+05:30",
+   "checked_at": "2026-11-13T13:25:22+05:30",
    "count": 11
   }
  },
  "items": [
+  {
+   "id": "1e5832e24369060f",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "round": "Round 2",
+   "title": "Choice filling for PG-26 Round 2 Counselling will remain temporarily suspended from 11:30 AM to 02:00 PM on 13.11.26 due to ongoing online reporting of PG Round 1 candidates.",
+   "url": "https://mcc.nic.in/important-notice-choice-filling-for-pg-round-2-counselling-2026-will-remain-temporarily-suspended-from-1130-am-to-0200-pm-on-13-11-2026-due-to-ongoing-online-reporting-of-pg-round-1-candidates-can/",
+   "published": "2026-11-13",
+   "first_seen": "2026-11-13T13:25:22+05:30"
+  },
+  {
+   "id": "cb9f9a46e5fe4c4d",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "round": "Round 2",
+   "title": "Notice reg Choice filling of Round 2 being temporarily suspended",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611131916783919.pdf",
+   "published": "2026-11-13",
+   "first_seen": "2026-11-13T13:25:22+05:30"
+  },
   {
    "id": "bdd6166faf32eb91",
    "exam": "neetpg",
