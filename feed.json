@@ -1,19 +1,52 @@
 {
  "version": 1,
- "updated_at": "2026-11-13T13:25:22+05:30",
+ "updated_at": "2026-11-13T21:49:35+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-13T13:25:22+05:30",
+   "checked_at": "2026-11-13T21:49:35+05:30",
    "count": 23
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-13T13:25:22+05:30",
+   "checked_at": "2026-11-13T21:49:35+05:30",
    "count": 11
   }
  },
  "items": [
+  {
+   "id": "6bec09a41241cc41",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "13.11.2026 NOTICE FOR ADDITION AND REMOVAL OF SEATS FROM ROUND 2 PG 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/2026111367808523.pdf",
+   "published": "2026-11-13",
+   "first_seen": "2026-11-13T21:49:35+05:30"
+  },
+  {
+   "id": "fb56b2f38579ed5b",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "UPDATED CLEAR VACANCY ROUND 2 (MD/MS/DNB) – PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611131910898804.pdf",
+   "published": "2026-11-13",
+   "first_seen": "2026-11-13T21:49:35+05:30"
+  },
+  {
+   "id": "51db1da570c257c0",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "UPDATED VIRTUAL VACANCY ROUND 2 (MD/MS/DNB) – PG COUNSELLING 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611131046540254.pdf",
+   "published": "2026-11-13",
+   "first_seen": "2026-11-13T21:49:35+05:30"
+  },
   {
    "id": "1e5832e24369060f",
    "exam": "neetpg",
