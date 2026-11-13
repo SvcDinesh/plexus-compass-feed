@@ -1,15 +1,15 @@
 {
  "version": 1,
- "updated_at": "2026-11-13T00:24:39+05:30",
+ "updated_at": "2026-11-13T05:50:19+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-13T00:24:39+05:30",
+   "checked_at": "2026-11-13T05:50:19+05:30",
    "count": 22
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-13T00:24:39+05:30",
+   "checked_at": "2026-11-13T05:50:19+05:30",
    "count": 11
   }
  },
@@ -360,11 +360,11 @@
    "category": "notice",
    "round": "Open round",
    "title": "Notice Candidature Cancel for the Open Round of INI-CET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1786603593338-530755775.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=a6446a475a4d42735d56fcf59241c394350ee5c9fcccea0e34bf8efcc4c7b828&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1786603593338-530755775.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=f5c4e6c24278960677a56ffc665b44be1b6789c89c96b057080643992c0a4fd7&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-08-13",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "87fe2b21c6a93571",
@@ -373,11 +373,11 @@
    "category": "result",
    "round": "Open round",
    "title": "Notice regarding Security Deposit for the Open Round of Online Seat Allocation of INI-CET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1786357813910-220111602.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=083180ee6e501b85f487b27ec135e053db9fca1ba884c3181c47354a7aa6471e&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1786357813910-220111602.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=f757462f1bf9b4afc9f3cefc3a2b4977cdc7d47f3a416152f4501d5d07cae052&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-08-10",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "d78ceb000feb989c",
@@ -386,11 +386,11 @@
    "category": "notice",
    "round": "Open round",
    "title": "Information brochure for open round of online seat allocation INICET July 2026 session.",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1785149587532-851666082.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=36c6e9083f5d89dfcec27a24021c27f825a7e64697630f527d352d473430b8d8&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1785149587532-851666082.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=89151588582fcec82b6db75eee6b79e108dd2983961d63da333606eac32389f1&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-07-27",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "8b8bf2147cc50a7e",
@@ -399,11 +399,11 @@
    "category": "schedule",
    "round": "Open round",
    "title": "Schedule of open round of online seat allocation for INI-CET July 2026 session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1785149525767-744087440.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=84ca1aa88daedc8363a356f61b9742b6a9306425b38d13a1ea3e445316a0f6f5&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1785149525767-744087440.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=8aa55fc36ef1ed53b39aa2fdfa417344f001eee4b6207ef4382ef5b3e0e42468&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-07-27",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "a4d04a609b024c87",
@@ -411,11 +411,11 @@
    "source": "aiims",
    "category": "schedule",
    "title": "Schedule online seat allocation INICET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155152053-953334453.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=5580669fbe67f00395f0fe69ac589152d8bfad0b37d7f93915d2506b3ad5d7d3&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155152053-953334453.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=9a9aa7e6bcfb469ee95e3129724d63bc815ed9cc28001a129e724409289a3cfb&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-06-11",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "4929f162f457e446",
@@ -423,11 +423,11 @@
    "source": "aiims",
    "category": "notice",
    "title": "FAQ online seat allocation INICET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155135022-999480374.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=5ebff644d497447fc59f356472040f97a859e34487989f486e67acd1439e299e&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155135022-999480374.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=6e354d2756c526efebc7a81b60c3cdb1d73b322e835ad335dc248e60f9367965&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-06-11",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "62f0df42064e3053",
@@ -435,11 +435,11 @@
    "source": "aiims",
    "category": "notice",
    "title": "Information Brochure online seat allocation INICET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155071406-258631692.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=bce1b5bd139eaed2f428ce779651dfdb03234454db6c373425b7fb2b8eebf88c&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155071406-258631692.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=efe83bf44433931be37b4df1ae74b937ab2a0a685c0b97e43573fdf44e2dbbf8&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-06-11",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "720f1040b4b5416f",
@@ -447,11 +447,11 @@
    "source": "aiims",
    "category": "notice",
    "title": "How to fill online seat allocation INICET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155044339-701983117.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=802cf10699d2b5f91015f3bb26c72be633f40b5a4a1bdc090a48402b2905145b&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781155044339-701983117.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=deb4d5535e4316420a8f2abc6f6281ab728a3d8258ddab46052d10bcca91ec73&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-06-11",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   },
   {
    "id": "4975f2c0356c5f13",
@@ -459,11 +459,11 @@
    "source": "aiims",
    "category": "notice",
    "title": "Guidelines IP Roster online seat allocation INICET July 2026 Session",
-   "url": "https://rrpdocuments.aiimsexams.ac.in/1781154871119-23773301.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261107%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T221754Z&X-Amz-Expires=604800&X-Amz-Signature=d0f86c58e2d6895929e3ae86092abd9bbb81e35c2ba3581654041ec56371a56f&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+   "url": "https://rrpdocuments.aiimsexams.ac.in/1781154871119-23773301.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20261112%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T185437Z&X-Amz-Expires=604800&X-Amz-Signature=0ad2cc57fd35f1c1032a2efe6d3181e658cd2ae5bf100c20f3416a60b091a942&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
    "published": "2026-06-11",
    "first_seen": "2026-11-03T01:03:48+05:30",
    "page": "https://www.aiimsexams.ac.in/landingpage/notice",
-   "url_expires": "2026-11-14T22:17:54+00:00"
+   "url_expires": "2026-11-19T18:54:37+00:00"
   }
  ]
 }
