@@ -1,19 +1,30 @@
 {
  "version": 1,
- "updated_at": "2026-11-13T21:49:35+05:30",
+ "updated_at": "2026-11-14T22:35:17+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-13T21:49:35+05:30",
+   "checked_at": "2026-11-14T22:35:17+05:30",
    "count": 23
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-13T21:49:35+05:30",
+   "checked_at": "2026-11-14T22:35:17+05:30",
    "count": 11
   }
  },
  "items": [
+  {
+   "id": "5c20ec683921eca2",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 2",
+   "title": "NRI LIST OF ELIGIBLE CANDIDATES FOR PG (ROUND 2) 2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261114584121258.pdf",
+   "published": "2026-11-14",
+   "first_seen": "2026-11-14T22:35:17+05:30"
+  },
   {
    "id": "6bec09a41241cc41",
    "exam": "neetpg",
