@@ -1,19 +1,29 @@
 {
  "version": 1,
- "updated_at": "2026-11-14T22:35:17+05:30",
+ "updated_at": "2026-11-17T01:57:20+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-14T22:35:17+05:30",
+   "checked_at": "2026-11-17T01:57:20+05:30",
    "count": 23
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-14T22:35:17+05:30",
-   "count": 11
+   "checked_at": "2026-11-17T01:57:20+05:30",
+   "count": 10
   }
  },
  "items": [
+  {
+   "id": "c38ac026a1ff70ac",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "schedule",
+   "title": "AIQ and State Schedule PG 2026 dated 16.11.2026",
+   "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611161679361332.pdf",
+   "published": "2026-11-16",
+   "first_seen": "2026-11-17T01:57:20+05:30"
+  },
   {
    "id": "5c20ec683921eca2",
    "exam": "neetpg",
