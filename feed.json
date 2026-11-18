@@ -1,19 +1,29 @@
 {
  "version": 1,
- "updated_at": "2026-11-18T03:51:17+05:30",
+ "updated_at": "2026-11-18T19:26:33+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-18T03:51:17+05:30",
+   "checked_at": "2026-11-18T19:26:33+05:30",
    "count": 23
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-18T03:51:17+05:30",
+   "checked_at": "2026-11-18T19:26:33+05:30",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "96cac6d3621b6d73",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "title": "The PwD portal for the Primary Assessment Board (Disability Centres) will remain available till 6:00 PM of 12 Nov 2026. The portal for the Appellate Board will be available till 6 :00 PM of 14.11.2026",
+   "url": "https://mcc.nic.in/the-pwd-portal-for-the-primary-assessment-board-disability-centres-will-remain-available-till-0600-pm-of-12-november-2026-the-portal-for-the-appellate-board-will-be-available-till-06-00-pm-of-14/",
+   "published": "2026-11-18",
+   "first_seen": "2026-11-18T19:26:33+05:30"
+  },
   {
    "id": "41dc8fb540ee197b",
    "exam": "neetpg",
