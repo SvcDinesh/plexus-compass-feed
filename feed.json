@@ -1,19 +1,30 @@
 {
  "version": 1,
- "updated_at": "2026-11-18T19:26:33+05:30",
+ "updated_at": "2026-11-20T03:00:25+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-18T19:26:33+05:30",
-   "count": 23
+   "checked_at": "2026-11-20T03:00:25+05:30",
+   "count": 24
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-18T19:26:33+05:30",
+   "checked_at": "2026-11-20T03:00:25+05:30",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "b1a49289f2c505fc",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "result",
+   "round": "Round 2",
+   "title": "Round 2 result for NEET PG will be available soon.",
+   "url": "https://mcc.nic.in/round-2-result-for-neet-pg-will-be-available-soon/",
+   "published": "2026-11-20",
+   "first_seen": "2026-11-20T03:00:25+05:30"
+  },
   {
    "id": "96cac6d3621b6d73",
    "exam": "neetpg",
