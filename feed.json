@@ -1,19 +1,30 @@
 {
  "version": 1,
- "updated_at": "2026-11-21T01:43:02+05:30",
+ "updated_at": "2026-11-21T15:17:17+05:30",
  "sources": {
   "mcc": {
    "ok": true,
-   "checked_at": "2026-11-21T01:43:02+05:30",
-   "count": 23
+   "checked_at": "2026-11-21T15:17:17+05:30",
+   "count": 24
   },
   "aiims": {
    "ok": true,
-   "checked_at": "2026-11-21T01:43:02+05:30",
+   "checked_at": "2026-11-21T15:17:17+05:30",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "2cba6c09ba27ceeb",
+   "exam": "neetpg",
+   "source": "mcc",
+   "category": "notice",
+   "round": "Round 3",
+   "title": "The PwD Portal for NEET PG Counselling for Round 3 2026 will remain available till 06:00 PM on 28.11.2026 for the Primary Assessment Board (Disability Centres) and till 06:00 PM on 01.12.2026 for the",
+   "url": "https://mcc.nic.in/the-pwd-portal-for-neet-pg-counselling-for-round-3-2026-will-remain-available-till-0600-pm-on-28-11-2026-for-the-primary-assessment-board-disability-centres-and-till-0600-pm-on-01-12-2026-for-the/",
+   "published": "2026-11-21",
+   "first_seen": "2026-11-21T15:17:17+05:30"
+  },
   {
    "id": "3f451da48f0fda2f",
    "exam": "neetpg",
